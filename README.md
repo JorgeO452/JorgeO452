@@ -52,7 +52,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 </div>
 
 ---
-<!-- 
+
 ### :fire: My Stats :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgeO452" alt="jorgeO452" /></a> </p>
 <div align="center">  
@@ -60,4 +60,4 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeO452&layout=compact&theme=vision-friendly-dark" width="600"/>
-</div> -->
+</div>
