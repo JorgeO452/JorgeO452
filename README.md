@@ -17,7 +17,7 @@
 ---
 ### :man_technologist: About Me :
 I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
-- :telescope: I’m currently working on ImageMaker as software test engineer.
+- :telescope: I’m currently working on Periferia IT as software test engineer.
 
 - :seedling: I'm currently learning Playwright 
 
